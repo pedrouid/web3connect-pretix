@@ -1,3 +1,3 @@
-# web3connect-checkout
+# web3connect-pretix
 
-Checkout with Web3Connect
+Pretix Checkout with Web3Connect

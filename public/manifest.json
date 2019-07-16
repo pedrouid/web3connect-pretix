@@ -1,6 +1,6 @@
 {
-  "short_name": "Web3Connect Checkout",
-  "name": "Web3Connect Checkout",
+  "short_name": "Pretix Checkout",
+  "name": "Pretix Checkout",
   "icons": [
     {
       "src": "favicon.ico",
